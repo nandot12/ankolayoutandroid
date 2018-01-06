@@ -1,0 +1,4 @@
+#Sat Jan 06 12:37:35 WIB 2018
+base.0=/Users/nandoseptianhusni/AndroidStudioProjects/AnkoLayoutAndroid/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
